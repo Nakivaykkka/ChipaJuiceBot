@@ -49,9 +49,9 @@ git clone https://github.com/Nakivaykkka/ChipaJuiceBot.git
 - Python 3.11+
 - aiogram (асинхронный телеграм-бот)
 - httpx / aiohttp (асинхронный парсинг)
-- pytest (тестирование)
-- docker (контейнеризация, позже)
-- github actions (CI, позже)
+- pytest (✅)
+- docker (✅)
+- github actions (✅)
 
 ---
 
