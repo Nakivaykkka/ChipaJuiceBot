@@ -1,5 +1,5 @@
 # ChipaJuiceBot
-
+![Python application](https://github.com/Nakivaykkka/ChipaJuiceBot/actions/workflows/python-app.yml/badge.svg)
 Телеграм-бот для поиска и парсинга коллекционных подарков и лотов с сайта [fragment.com](https://fragment.com/).
 
 ---
